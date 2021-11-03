@@ -2,7 +2,9 @@
 
 The purpose of this project was to get familiar with Multiple Linear Regression (MLR). 
 
-MLR.ipynb: shows how MLR is used on a dataset
+**MLR.ipynb**: shows how MLR is used on a dataset
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Linear Regression Machine Learning approach
